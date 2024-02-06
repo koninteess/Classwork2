@@ -1,5 +1,8 @@
 
-SIMPLE BUBBLE SORT:
+// SIMPLE BUBBLE SORT:
+// Name : Susmitha
+// Date : 02/06/2024
+
 
 #include <iostream>
 using namespace std;
